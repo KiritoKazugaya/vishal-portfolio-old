@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local working files (not part of the app)
+.claude/
+*.docx
+/PHOTO-2026-06-29-18-35-07.jpg
+/REFERENCE.md
